@@ -28,8 +28,19 @@ The design does not need to be anything fancy, but it does need to
 feel like a fully functional app. The app must include at the very least 
 three complete sub-systems –
 
-7. profile management: TODO( ) 
+7. Functional profile management: TODO( ) 
 
-8. exercise log: TODO( )
+8. Functional exercise log: TODO( )
 
-9. Sharing with friends: TODO( ) 
+9. Funcation Sharing with friends: TODO( ) 
+
+10. Clear out default Vue scaffolding. TODO( )
+
+11. Add a NavBar from Bulma with a description of each of these on their own 
+separate tab: Profile Management, Lap Log (Stored where? Cookies?), and 
+"Share with Friends". TODO( )
+
+12. Make a basic photoshop doc of app layout, maybe. TODO( )
+
+13. Write down questions as needed. STATUS: WORKING
+
