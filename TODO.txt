@@ -1,0 +1,35 @@
+Final Project Requirements from class:
+
+1. TODO: Do not submit binaries,.ENV, node modules folder or passwords
+-to final project github repo. 
+STATUS: OK
+
+2. TODO: Do not use express for anything besides routing - for
+-example do not use template strings from express - just use
+-modern modules learned in class. 
+STATUS: OK
+
+3.  TODO:  Only use composition API for Vue - do not use the options
+-code variant. 
+STATUS: OK
+
+4.  TODO: Use same vue@latest setting we went over in class on 2/2
+STATUS: OK
+
+5. TODO (DONE): Delete default vue@latest README and write something
+   relevant to te project.
+   
+6. TODO (DONE): Fix 'cannot find module './App.vue' error
+
+Final Project Requirements from syllabus:
+The project is a fitness tracker app. It will be judged based on features, 
+completeness, coding & pattern correctness, usability, and design. 
+The design does not need to be anything fancy, but it does need to 
+feel like a fully functional app. The app must include at the very least 
+three complete sub-systems –
+
+7. profile management: TODO( ) 
+
+8. exercise log: TODO( )
+
+9. Sharing with friends: TODO( ) 
