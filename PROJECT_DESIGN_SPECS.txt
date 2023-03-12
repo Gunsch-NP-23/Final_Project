@@ -16,7 +16,7 @@ Final Project Requirements from class:
 5. TODO: Delete default vue@latest README and write something
    relevant to te project.
    
-6. TODO: Fix 'cannot find module './App.vue' error
+6. TODO(DONE): Fix 'cannot find module './App.vue' error
 
 
 Final Project Requirements from syllabus:
@@ -24,4 +24,7 @@ The project is a fitness tracker app. It will be judged based on features,
 completeness, coding & pattern correctness, usability, and design. 
 The design does not need to be anything fancy, but it does need to 
 feel like a fully functional app. The app must include at the very least 
-three complete sub-systems – 1) profile management, 2) exercise log, 3) Sharing with friends. 
+three complete sub-systems –
+ 1) profile management:TODO( ) 
+ 2) exercise log: TODO( )
+ 3) Sharing with friends: TODO( ) 
