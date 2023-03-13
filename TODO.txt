@@ -42,5 +42,8 @@ separate tab: Profile Management, Lap Log (Stored where? Cookies?), and
 
 12. Make a basic photoshop doc of app layout, maybe. TODO( )
 
-13. Write down questions as needed. STATUS: WORKING
+13. Write down questions as needed. 
+   STATUS: WORKING
 
+14. Make on par with this: https://midterm-example.onrender.com/
+   STATUS: WORKING
